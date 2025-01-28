@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="1/28/2025 9:52:10 AM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="PPATRAKS"
+  DTS:CreatorName="PPATRAKS\amula"
+  DTS:DTSID="{F883C7CD-CF00-48C0-8440-09A84A614EA1}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="16.0.5685.0"
+  DTS:LocaleID="1036"
+  DTS:ObjectName="Package1"
+  DTS:PackageType="5"
+  DTS:VersionGUID="{06971322-A996-484C-8335-7F5A5188AE59}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:Variables />
+  <DTS:Executables />
+</DTS:Executable>
